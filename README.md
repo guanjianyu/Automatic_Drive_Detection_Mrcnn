@@ -4,4 +4,4 @@ This is an implemention of [Tensorflow detection model zoo](https://github.com/t
 
 The detection result based on differen models are shown in flowing link videos.
 * [Final result video](https://www.youtube.com/watch?v=Pv2qcNR-PMs)
-    [![Final result on demo video](assets/Animated GIF-source.gif)](https://www.youtube.com/watch?v=Pv2qcNR-PMs)
+     [![Final result on demo video](assets/Animated GIF-source.gif)](https://www.youtube.com/watch?v=Pv2qcNR-PMs)
