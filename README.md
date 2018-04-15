@@ -2,6 +2,8 @@
 
 This is an implemention of [Tensorflow detection model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md) on Python 3 and TensorFlow. The project adopts four different models in Model Zoo to detect cars on road in demo video. 
 
+This project is built based on [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection) and you can view more detail at [here](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
 [![](result.gif)](https://www.youtube.com/watch?v=Pv2qcNR-PMs)
 
 The detection result based on differen models are shown in flowing link videos.
