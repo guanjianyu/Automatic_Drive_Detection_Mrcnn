@@ -19,7 +19,6 @@ This project is built based on [Tensorflow Object Detection API](https://github.
 | [ssd_mobilenet_v1_coco](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz) | 30 | 21 | Boxes |
 | [faster_rcnn_inception_v2_coco](http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_coco_2018_01_28.tar.gz) | 58 | 28 | Boxes |
 | [faster_rcnn_resnet101_coco](http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet101_coco_2018_01_28.tar.gz) | 106 | 32 | Boxes |
-Model name                                                                                                                                                        | Speed (ms) | Pascal mAP@0.5 (ms) | Outputs
------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---: | :-------------: | :-----:
+| Model name | Speed (ms) | Pascal mAP@0.5 (ms) | Outputs|
 [faster_rcnn_resnet101_kitti](http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet101_kitti_2018_01_28.tar.gz) | 79  | 87              | Boxes
 
